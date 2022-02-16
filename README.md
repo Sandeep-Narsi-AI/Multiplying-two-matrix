@@ -37,4 +37,5 @@ print("Product of two arrays is:",product)
 ![output](MatrixMul.png)
 
 ## RESULT:
+Thus the multiplication of matrix is done
 
